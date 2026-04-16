@@ -1,3 +1,3 @@
 # RGFlow
 
-This repository gives the core codes for the paper: 10.1088/2632-2153/ae493b
+This repository gives the core codes for the paper: Application of deep neural networks for computing the renormalization group flow of the two-dimensional $\phi^4$ field theory
